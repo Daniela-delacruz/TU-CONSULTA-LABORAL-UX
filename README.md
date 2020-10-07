@@ -16,3 +16,20 @@ Para este reto:
 -Saber los nuevos servicios legales que podrían ofrecer
 -Mejorar la experiencia de la plataforma actual
 -Para ello, te piden investigar a los potenciales usuarios para conocerlos y a sus necesidades, plantear una solución de cómo debería ser este producto/servicio digital y cómo -llegar a sus potenciales usuarios. Quieren que averigües cómo utilizarían este canal y cuáles son sus motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse la solución.
+
+ENTREVISTA CON EXPERTOS EN EL ÁREA LEGAL
+
+![WhatsApp Image 2020-10-06 at 22 34 00 (1)](https://user-images.githubusercontent.com/68177371/95284618-3a9acb00-0824-11eb-8452-0d80925b054c.jpeg)
+![WhatsApp Image 2020-10-06 at 22 34 00](https://user-images.githubusercontent.com/68177371/95284621-3b336180-0824-11eb-9ac4-a5e3522eb0a3.jpeg)
+
+Conclusiones:
+1. El organismo jurídico en Perú ha determinado que cada oficina cuente con Mesa de partes Electrónicas.
+2. Es prioritario para el abogado contar con un email.
+3. Los casos sobre temas de firma de contrato incumplidos, incremento de tasas, durante la pandemia.
+4. Victor Gil: "Existe predominancia a la atención virtual" "Ha habido buena adaptación por parte del público, aún así no es factible estar tomando fotos, escaneando los documentos"
+5. "Los casos de violencia familiar aún aumentado en esta pandemia, ya que el agresor está cerca de la Víctima"
+6. Los precios que maneja tu consulta laboral van acorde al mercado.
+7. A los abogados les interesa eventos legales, ponencias, actualización constante.
+8. "La asesoría se dá cuando la persona o negocio tiene un problema"
+9. "La atención de trabajadores del sector Privado es un 60% vs 40% de trabajadores del sector Público."
+10. Los casos en cuanto a asesoría laboral más vistos son: Suspensión perfecta de labores en pandemia, contrato laboral, despidos.
