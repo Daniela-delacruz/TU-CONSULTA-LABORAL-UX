@@ -33,3 +33,8 @@ Conclusiones:
 8. "La asesoría se dá cuando la persona o negocio tiene un problema"
 9. "La atención de trabajadores del sector Privado es un 60% vs 40% de trabajadores del sector Público."
 10. Los casos en cuanto a asesoría laboral más vistos son: Suspensión perfecta de labores en pandemia, contrato laboral, despidos.
+
+2. BENCHMARKING
+En el análisis de competencia 
+Se tomaron en cuenta a Lexy en Perú, como líder del sector, aplicacional.
+
