@@ -19,8 +19,7 @@ Para este reto:
 
 **ENTREVISTA CON EXPERTOS EN EL ÁREA LEGAL**
 
-![WhatsApp Image 2020-10-06 at 22 34 00 (1)](https://user-images.githubusercontent.com/68177371/95284618-3a9acb00-0824-11eb-8452-0d80925b054c.jpeg)
-![WhatsApp Image 2020-10-06 at 22 34 00](https://user-images.githubusercontent.com/68177371/95284621-3b336180-0824-11eb-9ac4-a5e3522eb0a3.jpeg)
+![WhatsApp Image 2020-10-06 at 22 34 00 (1)](https://user-images.githubusercontent.com/68177371/95284618-3a9acb00-0824-11eb-8452-0d80925b054c.jpeg)![WhatsApp Image 2020-10-06 at 22 34 00](https://user-images.githubusercontent.com/68177371/95284621-3b336180-0824-11eb-9ac4-a5e3522eb0a3.jpeg)
 
 Conclusiones:
 1. El organismo jurídico en Perú ha determinado que cada oficina cuente con Mesa de partes Electrónicas.
