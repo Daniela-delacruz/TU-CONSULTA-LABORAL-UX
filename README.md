@@ -1,4 +1,4 @@
-# TU-CONSULTA-LABORAL-UX
+# PROYECTO-TU-CONSULTA-LABORAL
 
 Tu Consulta Laboral es un emprendimiento peruano del rubro legal, especializado en derecho laboral. Nació en 2018 y ha sido reconocido por Innova Perú, beneficiarios del fondo StartUp Perú en la 7° generación y actualmente está siendo acelerado por el Centro de Innovación y Desarrollo Emprendedor CIDE-PUCP.
 
