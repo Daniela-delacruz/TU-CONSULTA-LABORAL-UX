@@ -20,8 +20,8 @@ Para este reto:
 **ENTREVISTA CON EXPERTOS EN EL ÁREA LEGAL**
 
 Expertos participantes:
-1. 
-2. 
+1. Juan Ramírez
+2. Alonso Gil Portanova
 3. 
 
 ![WhatsApp Image 2020-10-06 at 22 34 00 (1)](https://user-images.githubusercontent.com/68177371/95284618-3a9acb00-0824-11eb-8452-0d80925b054c.jpeg)
